@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* hoja CSS */
+
+.derecha {
+	text-align: right;
+}
+
+.bg{
+	background: url(images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: grey;
+}
+
+.navbar navbar-right{
+	list-style-type: none;
+}
+
+
+.li-menu{
+	list-style: none;
+	float: right;
+	padding: 20px;
+	margin-right: 20px;
+}
+
+.menu li a{
+	color: #fff;
+	text-decoration: none;
+
+}
+
+
+.img{
+	width: 98;
+}
+
+
+.destacado{
+
+	
+}
+/* <i class="icon-large icon-facebook"></i> */
+
+
+
+
+
